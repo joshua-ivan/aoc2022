@@ -1,0 +1,6 @@
+Monkey 
+  Starting items: 
+  Operation: new = old 
+  Test: divisible by 
+    If true: throw to monkey 
+    If false: throw to monkey 
